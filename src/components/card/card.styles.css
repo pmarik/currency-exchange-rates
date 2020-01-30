@@ -12,6 +12,7 @@
     transition: transform 0.25s ease-out;
     color: rgb(1, 1, 61);
     letter-spacing: 1px;
+    min-width: 190px;
 }
 
 .card-img{

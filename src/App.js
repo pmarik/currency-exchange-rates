@@ -49,6 +49,16 @@ class App extends Component {
       return currency.name.toLowerCase().includes(searchField.toLowerCase())
      } );  
 
+    const loader = (
+        <div class="profile-main-loader">
+          <div class="loader">
+            <svg class="circular-loader"viewBox="25 25 50 50" >
+              <circle class="loader-path" cx="50" cy="50" r="20" fill="none" stroke="#7dc7e2" stroke-width="2" />
+            </svg>
+          </div>
+        </div>
+    );
+
     return (
       <div className="App">
         <h1> Exchange Rates </h1>
@@ -56,7 +66,10 @@ class App extends Component {
           placeholder='search currencies'
           handleChange={this.handleChange}
         />
-        <CardList currencies={filteredCurrencies} />
+
+        {currencies.length == 0 ? loader : <CardList currencies={filteredCurrencies} /> } 
+        {searchField.length > 0 && filteredCurrencies.length == 0 && (<h2>Currency not found...</h2>)}
+        
       </div>
     );
   }
