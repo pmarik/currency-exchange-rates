@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/currency-exchange-rates/static/css/main.d0941e65.chunk.css",
+    "main.js": "/currency-exchange-rates/static/js/main.e1ba4cc3.chunk.js",
+    "main.js.map": "/currency-exchange-rates/static/js/main.e1ba4cc3.chunk.js.map",
+    "runtime-main.js": "/currency-exchange-rates/static/js/runtime-main.94a3941e.js",
+    "runtime-main.js.map": "/currency-exchange-rates/static/js/runtime-main.94a3941e.js.map",
+    "static/js/2.476d919e.chunk.js": "/currency-exchange-rates/static/js/2.476d919e.chunk.js",
+    "static/js/2.476d919e.chunk.js.map": "/currency-exchange-rates/static/js/2.476d919e.chunk.js.map",
+    "index.html": "/currency-exchange-rates/index.html",
+    "precache-manifest.cb3acf6071082c8929c91ef34af66afe.js": "/currency-exchange-rates/precache-manifest.cb3acf6071082c8929c91ef34af66afe.js",
+    "service-worker.js": "/currency-exchange-rates/service-worker.js",
+    "static/css/main.d0941e65.chunk.css.map": "/currency-exchange-rates/static/css/main.d0941e65.chunk.css.map",
+    "static/js/2.476d919e.chunk.js.LICENSE": "/currency-exchange-rates/static/js/2.476d919e.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94a3941e.js",
+    "static/js/2.476d919e.chunk.js",
+    "static/css/main.d0941e65.chunk.css",
+    "static/js/main.e1ba4cc3.chunk.js"
+  ]
+}
