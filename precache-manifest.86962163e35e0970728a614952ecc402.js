@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fe109c1c0c64d9f04e18775f300681d0",
+    "revision": "728d97c7e225401405f0c96ba3d37eba",
     "url": "/currency-exchange-rates/index.html"
   },
   {
-    "revision": "1224f6c01cbf915ffb3a",
-    "url": "/currency-exchange-rates/static/css/main.d0941e65.chunk.css"
+    "revision": "1169fda752ee268fb32f",
+    "url": "/currency-exchange-rates/static/css/main.5b237fe3.chunk.css"
   },
   {
     "revision": "c4deb2976f0427137418",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/currency-exchange-rates/static/js/2.476d919e.chunk.js.LICENSE"
   },
   {
-    "revision": "1224f6c01cbf915ffb3a",
+    "revision": "1169fda752ee268fb32f",
     "url": "/currency-exchange-rates/static/js/main.e1ba4cc3.chunk.js"
   },
   {
